@@ -14,6 +14,8 @@ void StyrTemp() {
   pinMode(VarmePin, HIGH);
   t1 = millis();
   HL = true;
+  
+  hej
 
 }
 
